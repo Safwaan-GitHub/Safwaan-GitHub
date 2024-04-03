@@ -11,7 +11,7 @@ As I navigate through the intricacies of low-level programming, I am fascinated 
 ## My Projects
 
 - **[So_Long: Death's Collection](https://github.com/Safwaan-GitHub/so_long)**: A 2D puzzle-adventure game where strategy meets storytelling, all powered by the MiniLibX graphics library. 🎮👾
-- **[Pipex](https://github.com/Safwaan-GitHub/pipex)**: A inter-process communication that replicates the process of bash pipes!
+- **[Pipex](https://github.com/Safwaan-GitHub/PipexSolution)**: A inter-process communication that replicates the process of bash pipes!
 - **[Push Swap](https://github.com/Safwaan-GitHub/push_swap)**: The ultimate sorting challenge, where I manipulate data structures with the least amount of moves possible. 💾🔄
 - **[Get Next Line](https://github.com/Safwaan-GitHub/GNLSUB)**: A project that showcases my understanding of buffering and optimized file reading in C. 📂📖
 - **[Ft_Printf](https://github.com/Safwaan-GitHub/ft_printf)**: My take on recreating the classic `printf` function, focusing on precision and reliability. 🖨️🔍
