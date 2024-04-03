@@ -10,12 +10,12 @@ As I navigate through the intricacies of low-level programming, I am fascinated 
 
 ## My Projects
 
-- **[So_Long: Death's Collection](/Safwaan-GitHub/so_long)**: A 2D puzzle-adventure game where strategy meets storytelling, all powered by the MiniLibX graphics library. 🎮👾
-- **[Pipex](/Safwaan-GitHub/ft_printf)**: A inter-process communication that replicates the process of bash pipes!
-- **[Push Swap](/Safwaan-GitHub/push_swap)**: The ultimate sorting challenge, where I manipulate data structures with the least amount of moves possible. 💾🔄
-- **[Get Next Line](/Safwaan-GitHub/get_next_line)**: A project that showcases my understanding of buffering and optimized file reading in C. 📂📖
-- **[Ft_Printf](/Safwaan-GitHub/ft_printf)**: My take on recreating the classic `printf` function, focusing on precision and reliability. 🖨️🔍
-
+- **[So_Long: Death's Collection](https://github.com/Safwaan-GitHub/so_long)**: A 2D puzzle-adventure game where strategy meets storytelling, all powered by the MiniLibX graphics library. 🎮👾
+- **[Pipex](https://github.com/Safwaan-GitHub/pipex)**: A inter-process communication that replicates the process of bash pipes!
+- **[Push Swap](https://github.com/Safwaan-GitHub/push_swap)**: The ultimate sorting challenge, where I manipulate data structures with the least amount of moves possible. 💾🔄
+- **[Get Next Line](https://github.com/Safwaan-GitHub/GNLSUB)**: A project that showcases my understanding of buffering and optimized file reading in C. 📂📖
+- **[Ft_Printf](https://github.com/Safwaan-GitHub/ft_printf)**: My take on recreating the classic `printf` function, focusing on precision and reliability. 🖨️🔍
+- **[Libft](https://github.com/Safwaan-GitHub/Libft)**: Libft, a arsenal of functions that can be used anytime anywhere.
 
 ## Looking Ahead
 
