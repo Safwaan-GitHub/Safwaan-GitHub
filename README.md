@@ -8,6 +8,8 @@ Hey there! I'm diving deep into the world of C programming. I have solid fundame
 
 As I navigate through the intricacies of low-level programming, I am fascinated by the complexities and security aspects of software development. My repositories are a playground where theory meets practice. From intricate C projects like `So_Long: Death's Collection` to exploring algorithms in `Push Swap` and mastering file management with `Get Next Line`, every commit reflects my journey toward mastering systems programming.🛡️🚀
 
+Check out a few of my projects!
+
 ## My Projects
 
 - **[So_Long: Death's Collection](https://github.com/Safwaan-GitHub/so_long)**: A 2D puzzle-adventure game where strategy meets storytelling, all powered by the MiniLibX graphics library. 🎮👾
