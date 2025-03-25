@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## About Me
 
-Hey there! I'm a current student at 42 London, diving deep into the world of C programming and cybersecurity. With a background as a full-stack developer for about a year, I have a solid foundation in building and scaling web applications. 🔍🌐
+Hey there! I'm diving deep into the world of C programming. I have solid fundamental knowledge and am practising to get better daily.
 
-As I navigate through the intricacies of low-level programming, I am fascinated by the complexities and security aspects of software development. My repositories are a playground where theory meets practice. From intricate C projects like `So_Long: Death's Collection` to exploring algorithms in `Push Swap` and mastering file management with `Get Next Line`, every commit reflects my journey toward mastering systems programming and cybersecurity. 🛡️🚀
+As I navigate through the intricacies of low-level programming, I am fascinated by the complexities and security aspects of software development. My repositories are a playground where theory meets practice. From intricate C projects like `So_Long: Death's Collection` to exploring algorithms in `Push Swap` and mastering file management with `Get Next Line`, every commit reflects my journey toward mastering systems programming.🛡️🚀
 
 ## My Projects
 
